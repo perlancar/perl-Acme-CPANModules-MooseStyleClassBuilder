@@ -20,6 +20,6 @@ our $LIST = {
 1;
 # ABSTRACT:
 
-=head1 SEE ALSO
+=head1 append:SEE ALSO
 
 L<Acme::CPANModules::NonMooseStyleClassBuilder>
