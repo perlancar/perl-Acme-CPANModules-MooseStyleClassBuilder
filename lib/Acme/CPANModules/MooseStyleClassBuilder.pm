@@ -14,6 +14,7 @@ our $LIST = {
         {module => 'Moos'},
         {module => 'Moose'},
         {module => 'Mouse'},
+        {module => 'Mus'},
     ],
 };
 
